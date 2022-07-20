@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Minecraft Servers
-- 📫 How to reach me Perro Gamer#7431
+- 📫 How to reach me Perro Gamer#0001
 
 <!---
 PerroDev/PerroDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
