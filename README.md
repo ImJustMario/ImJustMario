@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @PerroDev
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Minecraft Servers
-- 📫 How to reach me Perro Gamer#0001
+<div align="center">
+  <a href=https://mario.baby>My website (Soon)</a>
+</div>
 
-<!---
-PerroDev/PerroDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Working on
+- Working on [Moral Network](https://discord.moral.rip) as Developer
+- Working on [WhitePvP](https://discord.com/invite/VcpUrEUAWe) as Developer
+- Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a Owner and Developer
+
+## Worked on
+- Worked on OrientPvP 🛰️ as a Developer.
+- Worked on Duny Studios 🏜️ Developer.
+- Worked on VexPvP Network 🔨 as Developer.
+- Worked on Aplaxy Network 🐍 as Developer
+
+## Languagues
+
+[![Known](https://skillicons.dev/icons?i=python,java,javascript,nodejs,mysql,mongo,redis,express,nginx)](https://skillicons.dev)
+
+## Friends/Cool people
+[josepe](https://github.com/hardcorefactions)
