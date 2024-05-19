@@ -8,7 +8,7 @@
 - Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a Owner and Developer
 
 ## Worked on
-- Worked on OrientPvP 🛰️ as a Developer.
+- Worked on OrientPvP 🛰️ as CEO and Head Developer.
 - Worked on Duny Studios 🏜️ Developer.
 - Worked on VexPvP Network 🔨 as Developer.
 - Worked on Aplaxy Network 🐍 as Developer
