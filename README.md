@@ -3,7 +3,6 @@
 </div>
 
 ## Working on
-- Working on [Moral Network](https://discord.moral.rip) as Developer
 - Working on [WhitePvP](https://discord.com/invite/VcpUrEUAWe) as Developer
 - Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a Owner and Developer
 
