@@ -3,13 +3,13 @@
 </div>
 
 ## Working on
+- Working on [VexPvP](https://discord.gg/hcfactions) as Developer
 - Working on [WhitePvP](https://discord.com/invite/VcpUrEUAWe) as Developer
 - Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a Owner and Developer
 
 ## Worked on
 - Worked on OrientPvP 🛰️ as CEO and Head Developer.
 - Worked on Duny Studios 🏜️ Developer.
-- Worked on VexPvP Network 🔨 as Developer.
 - Worked on Aplaxy Network 🐍 as Developer
 
 ## Languagues
