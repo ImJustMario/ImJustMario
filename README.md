@@ -4,7 +4,7 @@
 
 ## Working on
 - CanSat 2025 Project. [Link](https://www.esa.int/Education/CanSat) (Regional Winner)
-- Working on [Hazard Hosting](https://discord.gg/hazardhost)
+- Working on [Teamfight Network](https://discord.gg/teamfight) as Developer
 
 ## Worked on
 - Worked on OrientPvP 🛰️ as CEO and Head Developer.
